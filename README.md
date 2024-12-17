@@ -2,6 +2,7 @@
 
 ## Project Overview  
 The **Image Caption Generating** system generates short, descriptive captions for images by understanding their semantics using multiple pretrained models. This system is designed to generate captions that not only describe the objects within the image but also capture the context and relationships between them.
+![System Overview](images/Screenshot-33.png)
 
 ## Key Features  
 - Generates captions for images by interpreting their content.  
