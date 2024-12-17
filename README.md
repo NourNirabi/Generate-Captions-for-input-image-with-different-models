@@ -17,7 +17,7 @@ The **Image Caption Generating** system generates short, descriptive captions fo
 - **GUI**: For providing a user-friendly interface for interaction.
 
 ## Dataset  
-The dataset used for this project is from [Kaggle's Image Captioning Dataset](https://www.kaggle.com/dataset-link). You can download the dataset and place it in the appropriate directory for training.
+The dataset used for this project is from [Kaggle's flickr30k Dataset](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset). You can download the dataset and place it in the appropriate directory for training.
 
 ## How It Works  
 1. **Image Upload**: Users can upload an image through the GUI.  
@@ -28,7 +28,7 @@ The dataset used for this project is from [Kaggle's Image Captioning Dataset](ht
 ## Installation and Setup  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/YourUsername/Image-Caption-Generating.git  
+   git clone https://github.com/NourNirabi/Generate-Captions-for-input-image-with-different-models.git
    cd Image-Caption-Generating  
 2. Install required libraries:
    ```bash
