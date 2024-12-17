@@ -42,5 +42,3 @@ The dataset used for this project is from [Kaggle's flickr30k Dataset](https://w
 4. Run the application:
    ```bash
    python app.py
-## Dataset
-The dataset used for this project can be downloaded from [Kaggle's flickr30k Dataset](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset). Download and place it in the `data/` folder for training.
